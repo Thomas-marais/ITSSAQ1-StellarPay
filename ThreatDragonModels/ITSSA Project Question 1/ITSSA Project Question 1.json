@@ -1,0 +1,26 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "ITSSA Project Question 1",
+    "owner": "Thomas Marais",
+    "description": "Defining the scope of the threat model, including entry points, data flows, and trust boundaries relevant to StellarPay’s web application. \n\n",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Question 1",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
